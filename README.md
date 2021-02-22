@@ -1,5 +1,6 @@
-
-[![](https://raw.githubusercontent.com/shinji0320/shinji0320/main/profile-summary-card-output/solarized/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-1
-![shinji0320's github stats](https://github-readme-stats.vercel.app/api?username=shinji0320)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=shinji0320&count_private=true&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shinji0320" />
+</a>
